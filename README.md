@@ -17,9 +17,9 @@
 
 - 📄 Know about my experiences [Resume](https://resume.io/r/htscIJqIf)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikeshroy&show_icons=true&locale=en" alt="anikeshroy" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikeshroy&" alt="anikeshroy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikeshroy&show_icons=true&locale=en" alt="anikeshroy" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikeshroy&show_icons=true&locale=en&layout=compact" alt="anikeshroy" /></p>
 
