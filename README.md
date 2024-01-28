@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anikesh Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Portfolio Project](https://anikeshroy.github.io/portfolio_ani.github.io/)
+- 🔭 I’m currently working on [Virtual Internship](https://github.com/Anikeshroy/CodSoft-Task)
 
 - 🌱 I’m currently learning **JavaScript, Node.JS & MongoDB**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anikeshroy62040@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/htscIJqIf](https://resume.io/r/htscIJqIf)
+- 📄 Know about my experiences [Resume](https://resume.io/r/htscIJqIf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
