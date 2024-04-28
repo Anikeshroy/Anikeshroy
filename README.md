@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.JS & MongoDB**
 
-- 👯 I’m looking to collaborate on **Amazon Clone**
+- 👯 I’m looking to collaborate on **Amazon Web Clone**
 
-- 🤝 I’m looking for help with **Netflix HomePage**
+- 🤝 I’m looking for help with **hackathon**
 
 - 👨‍💻 All of my projects are available at [https://anikeshroy.github.io/portfolio_ani.github.io/](https://anikeshroy.github.io/portfolio_ani.github.io/)
 
