@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **hackathon**
 
-- 👨‍💻 All of my projects are available at [https://anikeshroy.github.io/portfolio_ani.github.io/](https://anikeshroy.github.io/portfolio_ani.github.io/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-inky-pi-70.vercel.app/](https://my-portfolio-inky-pi-70.vercel.app/)
 
 - 💬 Ask me about **HTML & CSS, C, CPP**
 
