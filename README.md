@@ -46,11 +46,13 @@ Now that we have that out of the way, here’s a little about me:
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Anikeshroy/count.svg?"  />
-</div>
 
 ###
+
+<div align="center">
+  
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31thbgshfd3abvdnvv55wwun4vbq&unique={true|1|on|yes})
+</div>
 
 
 ## 📬 Let's Connect!  
