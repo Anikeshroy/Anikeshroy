@@ -18,9 +18,9 @@ Now that we have that out of the way, here’s a little about me:
 - 🏗️ Building **Web Applications, Chrome Extensions, and Full-Stack Projects**.  
 - 🎯 Passionate about **Web Development, Competitive Programming, and System Design**.  
 - ✍️ I write about **tech & problem-solving** on [your blog/medium link].  
-- 🎾 Love playing **[your favorite sport]** & exploring new tech stacks.  
+- 🎾 Love playing **Badminton** & exploring new tech stacks.  
 - ⛰️ A huge fan of **traveling & discovering new places**.  
-- ⚡ Fun fact: I enjoy **coding late at night, gaming, and watching anime/movies**!  
+- ⚡ Fun fact: I enjoy **coding late at night, gaming, and watching Netflix**!  
 
 ## 🛠 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript, jQuery, React  
