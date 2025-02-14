@@ -1,32 +1,48 @@
-<h1 align="center">Hi 👋, I'm Anikesh Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi, I'm Anikesh Roy (🚀💻❤️)</h1>
 
-- 🔭 I’m currently working on [Virtual Internship](https://github.com/Anikeshroy/CodSoft-Task)
+![Profile views](https://komarev.com/ghpvc/?username=Anikeshroy&color=blueviolet)
 
-- 🌱 I’m currently learning **JavaScript, Node.JS & MongoDB**
 
-- 👯 I’m looking to collaborate on **Amazon Web Clone**
 
-- 🤝 I’m looking for help with **hackathon**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-inky-pi-70.vercel.app/](https://my-portfolio-inky-pi-70.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikesh-roy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anikesh97)
+<a target="_blank" href="https://dev.to/anikeshx_404" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/call__me.ani)
 
-- 💬 Ask me about **HTML & CSS, C, CPP**
+## ✨ I'm a Software Developer  
 
-- 📫 How to reach me **anikeshroy62040@gmail.com**
+Let’s get this straight — **Roager** is the GOAT, and I won’t hear otherwise! 😆  
 
-- 📄 Know about my experiences [Resume](https://resume.io/r/htscIJqIf)
+Now that we have that out of the way, here’s a little about me:  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikeshroy&" alt="anikeshroy" /></p>
+- 💼 Currently working as **Joint Secretary of Development at CODE-CLUB, GEC Jamui**.  
+- 🏗️ Building **Web Applications, Chrome Extensions, and Full-Stack Projects**.  
+- 🎯 Passionate about **Web Development, Competitive Programming, and System Design**.  
+- ✍️ I write about **tech & problem-solving** on [your blog/medium link].  
+- 🎾 Love playing **[your favorite sport]** & exploring new tech stacks.  
+- ⛰️ A huge fan of **traveling & discovering new places**.  
+- ⚡ Fun fact: I enjoy **coding late at night, gaming, and watching anime/movies**!  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikeshroy&show_icons=true&locale=en" alt="anikeshroy" /></p>
+## 🛠 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, jQuery, React  
+- **Backend:** Express.js (Learning)  
+- **Programming:** C, C++, Java, DSA  
+- **Databases:** MySQL, Firebase (Exploring)  
+- **Other Skills:** API Development, Git, Open Source  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikeshroy&show_icons=true&locale=en&layout=compact" alt="anikeshroy" /></p>
+## 🚀 Featured Projects  
+- 📊 **Attendance Management System** – User authentication, dashboards, reporting.  
+- 📜 **Student Test Result Website** – Organized results display with a clean UI.  
+- 🏗 **Ad Space Booking Platform** – Connecting advertisers with land/building owners.  
+- 🛠 **Chrome Extension (Ad Blocker)** – Enhancing the browsing experience.  
+ 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anikesh-roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anikesh-roy/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/anikesh.roy.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anikesh.roy.22" height="30" width="40" /></a>
-<a href="https://instagram.com/call__me.ani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="call__me.ani/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anikeshroy611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anikeshroy611" height="30" width="40" /></a>
-</p>
+## 📬 Let's Connect!  
+💬 Feel free to reach out and collaborate!  
+
+📧 **Email:** anikeshroy62040@gmail.com  
+
+---
+_"When in doubt, leave it out."_ – **Joshua Bloch**  
