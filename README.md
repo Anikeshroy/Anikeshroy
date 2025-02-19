@@ -1,4 +1,6 @@
-<h1>Hi, I'm Anikesh Roy (🚀💻❤️)</h1>
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Anikesh+Roy!;" />
+</h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Anikeshroy&color=blueviolet)
 
@@ -27,7 +29,15 @@ Now that we have that out of the way, here’s a little about me:
 - **Backend:** Express.js (Learning)  
 - **Programming:** C, C++, Java, DSA  
 - **Databases:** MySQL, Firebase (Exploring)  
-- **Other Skills:** API Development, Git, Open Source  
+- **Other Skills:** API Development, Git, Open Source
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+
 
 ## 🚀 Featured Projects  
 - 📊 **Attendance Management System** – User authentication, dashboards, reporting.  
@@ -35,21 +45,18 @@ Now that we have that out of the way, here’s a little about me:
 - 🏗 **Ad Space Booking Platform** – Connecting advertisers with land/building owners.  
 - 🛠 **Chrome Extension (Ad Blocker)** – Enhancing the browsing experience.  
 
+## 🐍 Contributions
 <img src="https://raw.githubusercontent.com/Anikeshroy/Anikeshroy/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
+## ⚡ Stats 
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Anikeshroy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anikeshroy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-
-###
-
-<div align="center">
+## 🎧 Recently Played Music
+<div align="left">
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31thbgshfd3abvdnvv55wwun4vbq&unique={true|1|on|yes})
 </div>
