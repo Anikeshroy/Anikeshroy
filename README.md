@@ -60,7 +60,7 @@ Now that we have that out of the way, here’s a little about me:
 ## 📬 Let's Connect!  
 💬 Feel free to reach out and collaborate!  
 
-📧 **Email:** anikeshkumar.workmail@gmail.com  
+📧 **Email:** anikeshworkmail@gmail.com  
 
 ---
 _"When in doubt, leave it out."_ – **Joshua Bloch**  
